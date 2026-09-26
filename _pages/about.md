@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in Linguistics, The Ohio State University
+subtitle: '殷玥 [in⁵⁵ yɛ⁵¹] <br> PhD student in Linguistics, The Ohio State University'
 
 profile:
   align: right
