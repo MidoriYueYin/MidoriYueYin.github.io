@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Long'an Thowa (Zhuang)
-description: Phonological description, sound change, and tone sandhi in a Zhuang variety
+description: Phonological description, sound variation and change on vowel length contrast, and tone contextual variation in a Zhuang variety
 importance: 3
 # img: assets/img/zhuang.jpg   # 可选：卡片封面图，放进 assets/img/ 后取消注释
 ---
