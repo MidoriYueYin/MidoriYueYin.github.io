@@ -1,0 +1,10 @@
+# 首页底部显示的图标，按这里的顺序排列。
+# 想加哪个就去掉行首的 #，填上自己的信息；不想显示就在行首加 #。
+# 完整可用字段见：https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/cv.pdf # 你的 CV，直接用新文件覆盖 assets/pdf/cv.pdf 即可
+email: yin.1007@osu.edu
+scholar_userid: Qg_ExQUAAAAJ&hl=en # Google Scholar ID（个人主页网址里 user= 后面那串）
+# orcid_id: 0000-0000-0000-0000
+# github_username: USERNAME
+# linkedin_username: USERNAME
+# bluesky_url: https://bsky.app/profile/USERNAME
