@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg # 用你自己的照片覆盖 assets/img/prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>My Office: Oxley Hall 300, The Ohio State University</p>
-    <p>Columbus, OH</p>
-    <p>Email: yin.1007@osu.edu</p>
+  more_info: 
 
 selected_papers: true # 显示 papers.bib 里标了 selected = {true} 的论文
 social: true # 页面底部显示邮箱、CV 等图标
@@ -35,3 +32,5 @@ My work combines laboratory experiments, computational modeling, and fieldwork.
 - I have done fieldwork on Guangshui Mandarin, Long'an Zhuang and on Narua (Mosuo), where I study tone sandhi and tonal representations, vowel length contrast, as well as sound change.
 
 You can find my [research projects](/research/), [publications](/publications/), and my [CV](/assets/pdf/cv.pdf) (PDF) here. Outside of linguistics, [here is a bit more about me](/personal/).
+
+My email: yin.1007@osu.edu
