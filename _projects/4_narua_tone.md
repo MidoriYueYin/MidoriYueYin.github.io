@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tonal spreading in Lataddi Narua
-description: Fieldwork and wug-test experiments on the productivity of tonal spreading in a Naish language
+description: Fieldwork and wug-test experiments on the productivity of tonal spreading in a Naish language. Fieldwork was done with the assistance of Dr. Zihe Li in Peking University.
 importance: 4
 # img: assets/img/narua.jpg
 ---
