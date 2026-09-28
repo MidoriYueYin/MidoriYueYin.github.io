@@ -24,12 +24,12 @@ latest_posts:
 
 <!-- TODO: 以下是根据我对你研究的了解写的初稿，请按你的语气改写 -->
 
-I am Yue Yin, a third-year PhD student in Linguistics at The Ohio State University, co-advised by Dr. Micha Elsner and Dr. Becca Morley. I think of myself as a experimental and computational phonologist: I study how sound systems work, and how learners — human and machine — come to acquire them.
+I am Yue Yin, a third-year PhD student in Linguistics at The Ohio State University, co-advised by Dr. Micha Elsner and Dr. Becca Morley. I think of myself as an experimental and computational phonologist: I study how sound systems work, and how learners — human and machine — come to acquire them.
 
 My work combines laboratory experiments, computational modeling, and fieldwork. 
 - In the lab, I use (1) artificial language learning experiments to explore learning biases of human beings in phonological learning; (2) both production and perception experiments to tap into the mechanism of sound variation and change. 
 - On the computational side, I build and diagnose models of phonological learning, and probe how self-supervised speech models represent sounds. 
-- I have done fieldwork on Guangshui Mandarin, Long'an Zhuang and on Narua (Mosuo), where I study tones, vowel length contrast, as well as sound change.
+- I have done fieldwork on Guangshui Mandarin, Long'an Zhuang, and Narua (Mosuo), where I study tones, vowel length contrast, as well as sound change.
 
 You can find my [research projects](/research/), [publications](/publications/), and my [CV](/assets/pdf/cv.pdf) (PDF) here. Outside of linguistics, [here is a bit more about me](/personal/).
 
